@@ -4,6 +4,8 @@
 **hrithik1806/hrithik1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomi12345&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik1806" /> </p>
+
 
 
 I'm a sophomore at Thapar Institute of Engineering and Technology. I am a budding Web Developer from India.
@@ -16,7 +18,7 @@ I'm a sophomore at Thapar Institute of Engineering and Technology. I am a buddin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik1806&layout=compact&theme=radical)
 
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithik1806&show_icons=true&theme=solarized-dark&count_private=true)
+![Hrthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithik1806&show_icons=true&theme=solarized-dark&count_private=true)
 
 Languages and Tools
 <!--
