@@ -4,7 +4,7 @@
 **hrithik1806/hrithik1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomi12345&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik1806" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik1806&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik1806" /> </p>
 
 
 
