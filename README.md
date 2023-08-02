@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 
 
-I'm a sophomore at Thapar Institute of Engineering and Technology. I am a budding Web Developer from India.
+I'm a final year student at Thapar Institute of Engineering and Technology. I am a budding Web Developer from India.
 
 - 🔭 I’m currently working on **my skills**
 - 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, Machine Learning**
